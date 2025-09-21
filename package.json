@@ -1,0 +1,15 @@
+{
+  "name": "ostad_batch_12",
+  "version": "1.0.0",
+  "description": "selenium WebdriverIO",
+  "license": "ISC",
+  "author": "shohel",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.35.0"
+  }
+}
