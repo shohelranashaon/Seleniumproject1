@@ -4,12 +4,13 @@
   "description": "selenium WebdriverIO",
   "license": "ISC",
   "author": "shohel",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "init": "^0.1.2",
     "selenium-webdriver": "^4.35.0"
   }
 }
