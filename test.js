@@ -5,6 +5,7 @@ async function testRunner(){
         await driver.manage().window().maximize(); 
         await driver.get("https://ngof.4axizerp.com/login");
         await driver.sleep(3000);
+        
 
         await driver.findElement(By.id("email")).sendKeys("admin@ngof.org");
         await driver.sleep(2000);
